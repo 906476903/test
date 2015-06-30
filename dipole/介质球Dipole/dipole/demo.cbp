@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="dipole" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/dipole" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="libfreeglut.a" />
+					<Add library="libfreeglut_static.a" />
+					<Add library="libglu32.a" />
+					<Add library="libglut32.a" />
+					<Add library="libopengl32.a" />
+					<Add library="alut" />
+					<Add library="openal32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/dipole" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="Intro_display.cpp" />
+		<Unit filename="Intro_display.h" />
+		<Unit filename="Menu_display.cpp" />
+		<Unit filename="Menu_display.h" />
+		<Unit filename="S_L.cpp" />
+		<Unit filename="S_L.h" />
+		<Unit filename="Triple.cpp" />
+		<Unit filename="Triple.h" />
+		<Unit filename="const.cpp" />
+		<Unit filename="const.h" />
+		<Unit filename="func.cpp" />
+		<Unit filename="func.h" />
+		<Unit filename="global_variables.cpp" />
+		<Unit filename="global_variables.h" />
+		<Unit filename="icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="main_display.cpp" />
+		<Unit filename="main_display.h" />
+		<Unit filename="monte_carlo.cpp" />
+		<Unit filename="monte_carlo.h" />
+		<Unit filename="particle.cpp" />
+		<Unit filename="particle.h" />
+		<Unit filename="setting.cpp" />
+		<Unit filename="setting.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sys.cpp" />
+		<Unit filename="sys.h" />
+		<Unit filename="texture.cpp" />
+		<Unit filename="texture.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="velocity_verlet.cpp" />
+		<Unit filename="velocity_verlet.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

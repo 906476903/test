@@ -1,0 +1,1466 @@
+# depslib dependency file v1.0
+1420787834 source:c:\users\administrator\desktop\cpp\project\ours\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1420182102 c:\users\administrator\desktop\cpp\project\ours\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420787834 c:\users\administrator\desktop\cpp\project\ours\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1419431194 c:\users\administrator\desktop\cpp\project\ours\demo\particle.h
+
+1420512392 c:\users\administrator\desktop\cpp\project\ours\demo\velocity_verlet.h
+	"sys.h"
+
+1419507303 c:\users\administrator\desktop\cpp\project\ours\demo\monte_carlo.h
+	"sys.h"
+
+1420635682 source:c:\users\administrator\desktop\cpp\project\ours\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	"S_L.h"
+	<GL/glut.h>
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1301111162 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1301111164 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1420800860 source:c:\users\administrator\desktop\cpp\project\ours\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1419431194 source:c:\users\administrator\desktop\cpp\project\ours\demo\particle.cpp
+	"particle.h"
+
+1420800860 source:c:\users\administrator\desktop\cpp\project\ours\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420607752 source:c:\users\administrator\desktop\cpp\project\ours\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420375666 c:\users\administrator\desktop\cpp\project\ours\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420797525 source:c:\users\administrator\desktop\cpp\project\ours\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	"S_L.h"
+	<cmath>
+	<GL/glut.h>
+
+1420558846 c:\users\administrator\desktop\cpp\project\ours\demo\const.h
+
+1420798501 source:c:\users\administrator\desktop\cpp\project\ours\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1419773590 source:g:\杨子宸\computer science\demo\const.cpp
+	"const.h"
+
+1419773590 g:\杨子宸\computer science\demo\const.h
+
+1419741653 source:g:\杨子宸\computer science\demo\func.cpp
+	"func.h"
+	"const.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1419738731 g:\杨子宸\computer science\demo\func.h
+	"sys.h"
+
+1419738478 g:\杨子宸\computer science\demo\sys.h
+	"particle.h"
+
+1419431194 g:\杨子宸\computer science\demo\particle.h
+
+1419863776 source:g:\杨子宸\computer science\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	<GL/glut.h>
+
+1419685038 g:\杨子宸\computer science\demo\velocity_verlet.h
+	"sys.h"
+
+1419507303 g:\杨子宸\computer science\demo\monte_carlo.h
+	"sys.h"
+
+1419863640 g:\杨子宸\computer science\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1419861370 source:g:\杨子宸\computer science\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	<cmath>
+	<GL/glut.h>
+
+1419697598 source:g:\杨子宸\computer science\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1419431194 source:g:\杨子宸\computer science\demo\particle.cpp
+	"particle.h"
+
+1419815387 source:g:\杨子宸\computer science\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+
+1419772002 source:g:\杨子宸\computer science\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421479004 source:c:\users\administrator\desktop\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1421479084 c:\users\administrator\desktop\demo\const.h
+
+1421551255 source:c:\users\administrator\desktop\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421506057 c:\users\administrator\desktop\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\administrator\desktop\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\administrator\desktop\demo\particle.h
+
+1421549785 source:c:\users\administrator\desktop\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	<stdio.h>
+	<cstring>
+	"sys.h"
+	"S_L.h"
+	"global_variables.h"
+	<cmath>
+	<GL/glut.h>
+	"texture.h"
+	<iostream>
+
+1421514423 c:\users\administrator\desktop\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420965163 c:\users\administrator\desktop\demo\monte_carlo.h
+	"sys.h"
+
+1420512392 c:\users\administrator\desktop\demo\velocity_verlet.h
+	"sys.h"
+
+1420994053 source:c:\users\administrator\desktop\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\administrator\desktop\demo\particle.cpp
+	"particle.h"
+
+1421564288 source:c:\users\administrator\desktop\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420973120 source:c:\users\administrator\desktop\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421550739 source:c:\users\administrator\desktop\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"Menu_display.h"
+	"const.h"
+	"S_L.h"
+	<ctime>
+	"global_variables.h"
+	"texture.h"
+	"setting.h"
+	"Intro_display.h"
+	<GL/glut.h>
+	<conio.h>
+	<stdlib.h>
+
+1420788279 source:c:\users\administrator\desktop\cpp\project\ours\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1420181942 c:\users\administrator\desktop\cpp\project\ours\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1420169178 source:c:\users\administrator\desktop\cpp\project\ours\demo\icon.rc
+
+1420556094 c:\users\administrator\desktop\cpp\project\ours\demo\triple_k.h
+
+1420556205 source:c:\users\administrator\desktop\cpp\project\ours\demo\triple_k.cpp
+	"Triple_k.h"
+	"const.h"
+	<cmath>
+	<algorithm>
+
+1420558734 c:\users\administrator\desktop\cpp\project\ours\demo\triple.h
+
+1420558862 source:c:\users\administrator\desktop\cpp\project\ours\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1421582372 source:c:\users\子宸\desktop\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1421582560 c:\users\子宸\desktop\demo\const.h
+
+1421551255 source:c:\users\子宸\desktop\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421649106 c:\users\子宸\desktop\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\子宸\desktop\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\子宸\desktop\demo\particle.h
+
+1420558734 c:\users\子宸\desktop\demo\triple.h
+
+1421580287 c:\users\子宸\desktop\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 c:\users\子宸\desktop\demo\velocity_verlet.h
+	"sys.h"
+
+1420965163 c:\users\子宸\desktop\demo\monte_carlo.h
+	"sys.h"
+
+1421481906 c:\users\子宸\desktop\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1420169178 source:c:\users\子宸\desktop\demo\icon.rc
+
+1421635493 source:c:\users\子宸\desktop\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"Menu_display.h"
+	"const.h"
+	"S_L.h"
+	<ctime>
+	"global_variables.h"
+	"texture.h"
+	"setting.h"
+	"Intro_display.h"
+	<GL/glut.h>
+	<conio.h>
+	<stdlib.h>
+
+1421645046 source:c:\users\子宸\desktop\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	<stdio.h>
+	<cstring>
+	"sys.h"
+	"S_L.h"
+	"global_variables.h"
+	<cmath>
+	<GL/glut.h>
+	"texture.h"
+	<iostream>
+
+1421644093 source:c:\users\子宸\desktop\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\子宸\desktop\demo\particle.cpp
+	"particle.h"
+
+1421505175 source:c:\users\子宸\desktop\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421648553 source:c:\users\子宸\desktop\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420558862 source:c:\users\子宸\desktop\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420973120 source:c:\users\子宸\desktop\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421598433 c:\users\子宸\desktop\demo\menu_display.h
+	"main_display.h"
+
+1421406763 c:\users\子宸\desktop\demo\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421598433 c:\users\子宸\desktop\demo\texture.h
+	<GL/glut.h>
+
+1421648244 c:\users\子宸\desktop\demo\setting.h
+	"sys.h"
+
+1421635547 source:c:\users\子宸\desktop\demo\menu_display.cpp
+	"Menu_display.h"
+	"texture.h"
+	"global_variables.h"
+	<ctime>
+	"const.h"
+	<GL\glut.h>
+	<cmath>
+	<iostream>
+	"S_L.h"
+
+1421647793 source:c:\users\子宸\desktop\demo\setting.cpp
+	"setting.h"
+	"texture.h"
+	"global_variables.h"
+	"sys.h"
+	"const.h"
+	<cmath>
+	<stdio.h>
+	<iostream>
+	"Menu_display.h"
+	<stdlib.h>
+	<GL/glut.h>
+
+1421646512 source:c:\users\子宸\desktop\demo\texture.cpp
+	"texture.h"
+	"global_variables.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1421058684 source:c:\users\子宸\desktop\demo\global_variables.cpp
+	"global_variables.h"
+	"sys.h"
+
+1420558734 c:\users\administrator\desktop\demo\triple.h
+
+1421481906 c:\users\administrator\desktop\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1421058684 source:c:\users\administrator\desktop\demo\global_variables.cpp
+	"global_variables.h"
+	"sys.h"
+
+1421406763 c:\users\administrator\desktop\demo\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421486730 c:\users\administrator\desktop\demo\menu_display.h
+	"main_display.h"
+
+1421551255 c:\users\administrator\desktop\demo\setting.h
+	"sys.h"
+
+1420169178 source:c:\users\administrator\desktop\demo\icon.rc
+
+1421513695 c:\users\administrator\desktop\demo\texture.h
+	<GL/glut.h>
+
+1421548182 source:c:\users\administrator\desktop\demo\menu_display.cpp
+	"Menu_display.h"
+	"texture.h"
+	"global_variables.h"
+	<ctime>
+	"const.h"
+	<GL\glut.h>
+	<cmath>
+	<iostream>
+	"S_L.h"
+
+1421505175 source:c:\users\administrator\desktop\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421551255 source:c:\users\administrator\desktop\demo\setting.cpp
+	"setting.h"
+	"texture.h"
+	"global_variables.h"
+	"sys.h"
+	"const.h"
+	<cmath>
+	<stdio.h>
+	<iostream>
+	"Menu_display.h"
+	<stdlib.h>
+	<GL/glut.h>
+
+1341006776 c:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1421516428 source:c:\users\administrator\desktop\demo\texture.cpp
+	"texture.h"
+	"global_variables.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1420558862 source:c:\users\administrator\desktop\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1421049687 source:c:\users\子宸\desktop\新建文件夹\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1420982403 c:\users\子宸\desktop\新建文件夹\demo\const.h
+
+1420787834 source:c:\users\子宸\desktop\新建文件夹\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1420182102 c:\users\子宸\desktop\新建文件夹\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\子宸\desktop\新建文件夹\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\子宸\desktop\新建文件夹\demo\particle.h
+
+1420558734 c:\users\子宸\desktop\新建文件夹\demo\triple.h
+
+1420986483 c:\users\子宸\desktop\新建文件夹\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 c:\users\子宸\desktop\新建文件夹\demo\velocity_verlet.h
+	"sys.h"
+
+1419507303 c:\users\子宸\desktop\新建文件夹\demo\monte_carlo.h
+	"sys.h"
+
+1420181942 c:\users\子宸\desktop\新建文件夹\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1421058684 source:c:\users\子宸\desktop\新建文件夹\demo\global_variables.cpp
+	"global_variables.h"
+	"sys.h"
+
+1421059311 c:\users\子宸\desktop\新建文件夹\demo\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421058684 c:\users\子宸\desktop\新建文件夹\demo\menu_display.h
+	"main_display.h"
+
+1421058741 c:\users\子宸\desktop\新建文件夹\demo\setting.h
+	"sys.h"
+
+1420169178 source:c:\users\子宸\desktop\新建文件夹\demo\icon.rc
+
+1421061707 source:c:\users\子宸\desktop\新建文件夹\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"Menu_display.h"
+	"const.h"
+	"S_L.h"
+	"global_variables.h"
+	"texture.h"
+	"setting.h"
+	<GL/glut.h>
+
+1420992466 c:\users\子宸\desktop\新建文件夹\demo\texture.h
+	<GL/glut.h>
+
+1421059506 source:c:\users\子宸\desktop\新建文件夹\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	"S_L.h"
+	"global_variables.h"
+	<cmath>
+	<GL/glut.h>
+	<iostream>
+
+1421059087 source:c:\users\子宸\desktop\新建文件夹\demo\menu_display.cpp
+	"Menu_display.h"
+	"texture.h"
+	"global_variables.h"
+	<ctime>
+	"const.h"
+	<GL\glut.h>
+	<cmath>
+
+1420800860 source:c:\users\子宸\desktop\新建文件夹\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\子宸\desktop\新建文件夹\demo\particle.cpp
+	"particle.h"
+
+1420788279 source:c:\users\子宸\desktop\新建文件夹\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421061707 source:c:\users\子宸\desktop\新建文件夹\demo\setting.cpp
+	"setting.h"
+	"texture.h"
+	"global_variables.h"
+	"sys.h"
+	"const.h"
+	<cmath>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+
+1421061915 source:c:\users\子宸\desktop\新建文件夹\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420992479 source:c:\users\子宸\desktop\新建文件夹\demo\texture.cpp
+	"texture.h"
+	"global_variables.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1420558862 source:c:\users\子宸\desktop\新建文件夹\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420607752 source:c:\users\子宸\desktop\新建文件夹\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421479004 source:c:\users\子宸\desktop\demo\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1421479084 c:\users\子宸\desktop\demo\demo\const.h
+
+1421547764 source:c:\users\子宸\desktop\demo\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421506057 c:\users\子宸\desktop\demo\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\子宸\desktop\demo\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\子宸\desktop\demo\demo\particle.h
+
+1420558734 c:\users\子宸\desktop\demo\demo\triple.h
+
+1421514423 c:\users\子宸\desktop\demo\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 c:\users\子宸\desktop\demo\demo\velocity_verlet.h
+	"sys.h"
+
+1419507303 c:\users\子宸\desktop\demo\demo\monte_carlo.h
+	"sys.h"
+
+1421481906 c:\users\子宸\desktop\demo\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1421058684 source:c:\users\子宸\desktop\demo\demo\global_variables.cpp
+	"global_variables.h"
+	"sys.h"
+
+1421406763 c:\users\子宸\desktop\demo\demo\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421486730 c:\users\子宸\desktop\demo\demo\menu_display.h
+	"main_display.h"
+
+1421509017 c:\users\子宸\desktop\demo\demo\setting.h
+	"sys.h"
+
+1420169178 source:c:\users\子宸\desktop\demo\demo\icon.rc
+
+1421549785 source:c:\users\子宸\desktop\demo\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	<stdio.h>
+	<cstring>
+	"sys.h"
+	"S_L.h"
+	"global_variables.h"
+	<cmath>
+	<GL/glut.h>
+	"texture.h"
+	<iostream>
+
+1421548182 source:c:\users\子宸\desktop\demo\demo\menu_display.cpp
+	"Menu_display.h"
+	"texture.h"
+	"global_variables.h"
+	<ctime>
+	"const.h"
+	<GL\glut.h>
+	<cmath>
+	<iostream>
+	"S_L.h"
+
+1421513695 c:\users\子宸\desktop\demo\demo\texture.h
+	<GL/glut.h>
+
+1420800860 source:c:\users\子宸\desktop\demo\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\子宸\desktop\demo\demo\particle.cpp
+	"particle.h"
+
+1421505175 source:c:\users\子宸\desktop\demo\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421550269 source:c:\users\子宸\desktop\demo\demo\setting.cpp
+	"setting.h"
+	"texture.h"
+	"global_variables.h"
+	"sys.h"
+	"const.h"
+	<cmath>
+	<stdio.h>
+	<iostream>
+	"Menu_display.h"
+	<stdlib.h>
+	<GL/glut.h>
+
+1421415888 source:c:\users\子宸\desktop\demo\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1421516428 source:c:\users\子宸\desktop\demo\demo\texture.cpp
+	"texture.h"
+	"global_variables.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1420558862 source:c:\users\子宸\desktop\demo\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420607752 source:c:\users\子宸\desktop\demo\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421550648 source:c:\users\子宸\desktop\demo\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"Menu_display.h"
+	"const.h"
+	"S_L.h"
+	<ctime>
+	"global_variables.h"
+	"texture.h"
+	"setting.h"
+	"Intro_display.h"
+	<GL/glut.h>
+	<conio.h>
+	<stdlib.h>
+
+1421516982 source:c:\users\子宸\desktop\demo\demo\intro_display.cpp
+	"Intro_display.h"
+	"texture.h"
+	"global_variables.h"
+	<GL/glut.h>
+	<iostream>
+
+1421515806 c:\users\子宸\desktop\demo\demo\intro_display.h
+
+1421406763 source:c:\users\子宸\desktop\demo\demo\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421517278 source:c:\users\子宸\desktop\demo\demo\audio.cpp
+
+1421516982 source:c:\users\administrator\desktop\demo\intro_display.cpp
+	"Intro_display.h"
+	"texture.h"
+	"global_variables.h"
+	<GL/glut.h>
+	<iostream>
+
+1421515806 c:\users\administrator\desktop\demo\intro_display.h
+
+1341006770 c:\program files\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1421516982 source:c:\users\子宸\desktop\demo\intro_display.cpp
+	"Intro_display.h"
+	"texture.h"
+	"global_variables.h"
+	<GL/glut.h>
+	<iostream>
+
+1421515806 c:\users\子宸\desktop\demo\intro_display.h
+
+1421584323 source:c:\users\子宸\desktop\demo\audio.cpp
+	<conio.h>
+	<stdlib.h>
+	"al.h"
+	"alut.h"
+	"const.h"
+	"audio.h"
+
+1421582634 c:\users\子宸\desktop\demo\audio.h
+	"const.h"
+	<al.h>
+	<alut.h>
+
+1421582372 source:c:\users\子宸\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1421582560 c:\users\子宸\demo\const.h
+
+1421551255 source:c:\users\子宸\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421506057 c:\users\子宸\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\子宸\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\子宸\demo\particle.h
+
+1420558734 c:\users\子宸\demo\triple.h
+
+1421580287 c:\users\子宸\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 c:\users\子宸\demo\velocity_verlet.h
+	"sys.h"
+
+1420965163 c:\users\子宸\demo\monte_carlo.h
+	"sys.h"
+
+1421481906 c:\users\子宸\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1421058684 source:c:\users\子宸\demo\global_variables.cpp
+	"global_variables.h"
+	"sys.h"
+
+1421406763 c:\users\子宸\demo\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421598433 c:\users\子宸\demo\menu_display.h
+	"main_display.h"
+
+1421579124 c:\users\子宸\demo\setting.h
+	"sys.h"
+
+1420169178 source:c:\users\子宸\demo\icon.rc
+
+1421516982 source:c:\users\子宸\demo\intro_display.cpp
+	"Intro_display.h"
+	"texture.h"
+	"global_variables.h"
+	<GL/glut.h>
+	<iostream>
+
+1421515806 c:\users\子宸\demo\intro_display.h
+
+1421598433 c:\users\子宸\demo\texture.h
+	<GL/glut.h>
+
+1421598433 source:c:\users\子宸\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"Menu_display.h"
+	"const.h"
+	"S_L.h"
+	<ctime>
+	"global_variables.h"
+	"texture.h"
+	"setting.h"
+	"Intro_display.h"
+	<GL/glut.h>
+	<conio.h>
+	<stdlib.h>
+
+1421582634 c:\users\子宸\demo\audio.h
+	"const.h"
+	<al.h>
+	<alut.h>
+
+1421580993 source:c:\users\子宸\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	<stdio.h>
+	<cstring>
+	"sys.h"
+	"S_L.h"
+	"global_variables.h"
+	<cmath>
+	<GL/glut.h>
+	"texture.h"
+	<iostream>
+
+1420994053 source:c:\users\子宸\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\子宸\demo\particle.cpp
+	"particle.h"
+
+1421505175 source:c:\users\子宸\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421571778 source:c:\users\子宸\demo\setting.cpp
+	"setting.h"
+	"texture.h"
+	"global_variables.h"
+	"sys.h"
+	"const.h"
+	<cmath>
+	<stdio.h>
+	<iostream>
+	"Menu_display.h"
+	<stdlib.h>
+	<GL/glut.h>
+
+1421564288 source:c:\users\子宸\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1421598433 source:c:\users\子宸\demo\texture.cpp
+	"texture.h"
+	"global_variables.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1420558862 source:c:\users\子宸\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420973120 source:c:\users\子宸\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421582372 source:c:\users\子宸\desktop\diploe\const.cpp
+	"const.h"
+	<cmath>
+
+1421582560 c:\users\子宸\desktop\diploe\const.h
+
+1421649106 source:c:\users\子宸\desktop\diploe\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421649106 c:\users\子宸\desktop\diploe\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\子宸\desktop\diploe\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\子宸\desktop\diploe\particle.h
+
+1420558734 c:\users\子宸\desktop\diploe\triple.h
+
+1421580287 c:\users\子宸\desktop\diploe\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 c:\users\子宸\desktop\diploe\velocity_verlet.h
+	"sys.h"
+
+1420965163 c:\users\子宸\desktop\diploe\monte_carlo.h
+	"sys.h"
+
+1421481906 c:\users\子宸\desktop\diploe\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1421058684 source:c:\users\子宸\desktop\diploe\global_variables.cpp
+	"global_variables.h"
+	"sys.h"
+
+1421406763 c:\users\子宸\desktop\diploe\global_variables.h
+	"main_display.h"
+	"Menu_display.h"
+	"sys.h"
+	"const.h"
+	"setting.h"
+
+1421598433 c:\users\子宸\desktop\diploe\menu_display.h
+	"main_display.h"
+
+1421648244 c:\users\子宸\desktop\diploe\setting.h
+	"sys.h"
+
+1420169178 source:c:\users\子宸\desktop\diploe\icon.rc
+
+1421516982 source:c:\users\子宸\desktop\diploe\intro_display.cpp
+	"Intro_display.h"
+	"texture.h"
+	"global_variables.h"
+	<GL/glut.h>
+	<iostream>
+
+1421515806 c:\users\子宸\desktop\diploe\intro_display.h
+
+1421598433 c:\users\子宸\desktop\diploe\texture.h
+	<GL/glut.h>
+
+1421635493 source:c:\users\子宸\desktop\diploe\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"Menu_display.h"
+	"const.h"
+	"S_L.h"
+	<ctime>
+	"global_variables.h"
+	"texture.h"
+	"setting.h"
+	"Intro_display.h"
+	<GL/glut.h>
+	<conio.h>
+	<stdlib.h>
+
+1421645046 source:c:\users\子宸\desktop\diploe\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	<stdio.h>
+	<cstring>
+	"sys.h"
+	"S_L.h"
+	"global_variables.h"
+	<cmath>
+	<GL/glut.h>
+	"texture.h"
+	<iostream>
+
+1421635547 source:c:\users\子宸\desktop\diploe\menu_display.cpp
+	"Menu_display.h"
+	"texture.h"
+	"global_variables.h"
+	<ctime>
+	"const.h"
+	<GL\glut.h>
+	<cmath>
+	<iostream>
+	"S_L.h"
+
+1421644093 source:c:\users\子宸\desktop\diploe\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\子宸\desktop\diploe\particle.cpp
+	"particle.h"
+
+1421505175 source:c:\users\子宸\desktop\diploe\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421647793 source:c:\users\子宸\desktop\diploe\setting.cpp
+	"setting.h"
+	"texture.h"
+	"global_variables.h"
+	"sys.h"
+	"const.h"
+	<cmath>
+	<stdio.h>
+	<iostream>
+	"Menu_display.h"
+	<stdlib.h>
+	<GL/glut.h>
+
+1421648553 source:c:\users\子宸\desktop\diploe\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1421646512 source:c:\users\子宸\desktop\diploe\texture.cpp
+	"texture.h"
+	"global_variables.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1420558862 source:c:\users\子宸\desktop\diploe\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420973120 source:c:\users\子宸\desktop\diploe\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+

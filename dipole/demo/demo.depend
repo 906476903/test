@@ -1,0 +1,802 @@
+# depslib dependency file v1.0
+1421122262 source:c:\users\administrator\desktop\cpp\project\ours\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1420965163 
+
+1421122262 c:\users\administrator\desktop\cpp\project\ours\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420181942 lay.h"
+
+1420965163 c:\users\administrator\desktop\cpp\project\ours\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\administrator\desktop\cpp\project\ours\demo\particle.h
+
+1420512392 c:\users\administrator\desktop\cpp\project\ours\demo\velocity_verlet.h
+	"sys.h"
+
+1420965163 c:\users\administrator\desktop\cpp\project\ours\demo\monte_carlo.h
+	"sys.h"
+
+1420635682 source:c:\users\administrator\desktop\cpp\project\ours\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	"S_L.h"
+	<GL/glut.h>
+
+1421639641 >
+
+983673186 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1368251360 std.h"
+
+1301111162 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111156 h>
+
+1301111164 c:\program files\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1301111164 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1420994053 source:c:\users\administrator\desktop\cpp\project\ours\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:c:\users\administrator\desktop\cpp\project\ours\demo\particle.cpp
+	"particle.h"
+
+1420962691 h"
+
+1421042299 source:c:\users\administrator\desktop\cpp\project\ours\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420973120 source:c:\users\administrator\desktop\cpp\project\ours\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420375666 c:\users\administrator\desktop\cpp\project\ours\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420894774 source:c:\users\administrator\desktop\cpp\project\ours\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	"S_L.h"
+	<cmath>
+	<GL/glut.h>
+
+1420894873 c:\users\administrator\desktop\cpp\project\ours\demo\const.h
+
+1420902385 source:c:\users\administrator\desktop\cpp\project\ours\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1419773590 source:g:\Ñî×Óå·\computer science\demo\const.cpp
+	"const.h"
+
+1419773590 g:\Ñî×Óå·\computer science\demo\const.h
+
+1419741653 source:g:\Ñî×Óå·\computer science\demo\func.cpp
+	"func.h"
+	"const.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1419738731 g:\Ñî×Óå·\computer science\demo\func.h
+	"sys.h"
+
+1419738478 g:\Ñî×Óå·\computer science\demo\sys.h
+	"particle.h"
+
+1419431194 g:\Ñî×Óå·\computer science\demo\particle.h
+
+1419863776 source:g:\Ñî×Óå·\computer science\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	<GL/glut.h>
+
+1419685038 g:\Ñî×Óå·\computer science\demo\velocity_verlet.h
+	"sys.h"
+
+1419507303 g:\Ñî×Óå·\computer science\demo\monte_carlo.h
+	"sys.h"
+
+1419863640 g:\Ñî×Óå·\computer science\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1419861370 source:g:\Ñî×Óå·\computer science\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	<cmath>
+	<GL/glut.h>
+
+1419697598 source:g:\Ñî×Óå·\computer science\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1419431194 source:g:\Ñî×Óå·\computer science\demo\particle.cpp
+	"particle.h"
+
+1419815387 source:g:\Ñî×Óå·\computer science\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+
+1419772002 source:g:\Ñî×Óå·\computer science\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1419773590 source:c:\users\administrator\desktop\demo\const.cpp
+	"const.h"
+
+1419773590 c:\users\administrator\desktop\demo\const.h
+
+1419741653 source:c:\users\administrator\desktop\demo\func.cpp
+	"func.h"
+	"const.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1419738731 c:\users\administrator\desktop\demo\func.h
+	"sys.h"
+
+1419738478 c:\users\administrator\desktop\demo\sys.h
+	"particle.h"
+
+1419431194 c:\users\administrator\desktop\demo\particle.h
+
+1419864234 source:c:\users\administrator\desktop\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	<cmath>
+	<GL/glut.h>
+	"sys.h"
+	"func.h"
+	"monte_carlo.h"
+	"velocity_verlet.h"
+
+1419864234 verlet.h"
+
+1419863640 c:\users\administrator\desktop\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1419507303 c:\users\administrator\desktop\demo\monte_carlo.h
+	"sys.h"
+
+1419685038 c:\users\administrator\desktop\demo\velocity_verlet.h
+	"sys.h"
+
+1419697598 source:c:\users\administrator\desktop\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1419431194 source:c:\users\administrator\desktop\demo\particle.cpp
+	"particle.h"
+
+1419815387 source:c:\users\administrator\desktop\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+
+1419772002 source:c:\users\administrator\desktop\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1419864193 source:c:\users\administrator\desktop\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	<GL/glut.h>
+
+1420788279 source:c:\users\administrator\desktop\cpp\project\ours\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1420181942 c:\users\administrator\desktop\cpp\project\ours\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368251360 ext.h"
+
+1368251360 c:\program files\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1420169178 source:c:\users\administrator\desktop\cpp\project\ours\demo\icon.rc
+
+1420556094 c:\users\administrator\desktop\cpp\project\ours\demo\triple_k.h
+
+1420556205 source:c:\users\administrator\desktop\cpp\project\ours\demo\triple_k.cpp
+	"Triple_k.h"
+	"const.h"
+	<cmath>
+	<algorithm>
+
+1420558734 c:\users\administrator\desktop\cpp\project\ours\demo\triple.h
+
+1420558862 source:c:\users\administrator\desktop\cpp\project\ours\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420902385 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1420894873 c:\users\administrator\desktop\work\cpp\project\ours\demo\const.h
+
+1421122262 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421122262 c:\users\administrator\desktop\work\cpp\project\ours\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 c:\users\administrator\desktop\work\cpp\project\ours\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 c:\users\administrator\desktop\work\cpp\project\ours\demo\particle.h
+
+1420558734 c:\users\administrator\desktop\work\cpp\project\ours\demo\triple.h
+
+1420375666 c:\users\administrator\desktop\work\cpp\project\ours\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 c:\users\administrator\desktop\work\cpp\project\ours\demo\velocity_verlet.h
+	"sys.h"
+
+1420965163 c:\users\administrator\desktop\work\cpp\project\ours\demo\monte_carlo.h
+	"sys.h"
+
+1420181942 c:\users\administrator\desktop\work\cpp\project\ours\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1420169178 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\icon.rc
+
+1420635682 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	"S_L.h"
+	<GL/glut.h>
+
+1421123146 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	"S_L.h"
+	<cmath>
+	<GL/glut.h>
+
+1420962691 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\particle.cpp
+	"particle.h"
+
+1420788279 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1420558862 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420973120 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421639641 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1421639641 source:c:\users\administrator\desktop\work\cpp\project\ours\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420902385 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/const.cpp
+	"const.h"
+	<cmath>
+
+1420894873 /Users/apple/Documents/Work/cpp/project/dipole/demo/const.h
+
+1421122262 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421122262 /Users/apple/Documents/Work/cpp/project/dipole/demo/func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 /Users/apple/Documents/Work/cpp/project/dipole/demo/sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 /Users/apple/Documents/Work/cpp/project/dipole/demo/particle.h
+
+1420558734 /Users/apple/Documents/Work/cpp/project/dipole/demo/Triple.h
+
+1420375666 /Users/apple/Documents/Work/cpp/project/dipole/demo/main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 /Users/apple/Documents/Work/cpp/project/dipole/demo/velocity_verlet.h
+	"sys.h"
+
+1420965163 /Users/apple/Documents/Work/cpp/project/dipole/demo/monte_carlo.h
+	"sys.h"
+
+1420181942 /Users/apple/Documents/Work/cpp/project/dipole/demo/S_L.h
+	"sys.h"
+	"main_display.h"
+
+1420169178 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/icon.rc
+
+1420635682 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	"S_L.h"
+	<GL/glut.h>
+
+1421123146 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	"S_L.h"
+	<cmath>
+	<GL/glut.h>
+
+1421639974 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/particle.cpp
+	"particle.h"
+
+1420788279 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/S_L.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421639641 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420558862 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/Triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1420973120 source:/Users/apple/Documents/Work/cpp/project/dipole/demo/velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420902385 source:y:\documents\work\cpp\project\dipole\demo\const.cpp
+	"const.h"
+	<cmath>
+
+1420894873 y:\documents\work\cpp\project\dipole\demo\const.h
+
+1421122262 source:y:\documents\work\cpp\project\dipole\demo\func.cpp
+	"func.h"
+	"const.h"
+	"velocity_verlet.h"
+	"monte_carlo.h"
+	"S_L.h"
+	"Triple.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1421122262 y:\documents\work\cpp\project\dipole\demo\func.h
+	"sys.h"
+	"main_display.h"
+
+1420965163 y:\documents\work\cpp\project\dipole\demo\sys.h
+	"particle.h"
+	"Triple.h"
+
+1420962609 y:\documents\work\cpp\project\dipole\demo\particle.h
+
+1420558734 y:\documents\work\cpp\project\dipole\demo\triple.h
+
+1420375666 y:\documents\work\cpp\project\dipole\demo\main_display.h
+	<GL/glut.h>
+	"sys.h"
+
+1420512392 y:\documents\work\cpp\project\dipole\demo\velocity_verlet.h
+	"sys.h"
+
+1420965163 y:\documents\work\cpp\project\dipole\demo\monte_carlo.h
+	"sys.h"
+
+1420181942 y:\documents\work\cpp\project\dipole\demo\s_l.h
+	"sys.h"
+	"main_display.h"
+
+1420169178 source:y:\documents\work\cpp\project\dipole\demo\icon.rc
+
+1420635682 source:y:\documents\work\cpp\project\dipole\demo\main.cpp
+	<iostream>
+	<windows.h>
+	"sys.h"
+	"func.h"
+	"main_display.h"
+	"const.h"
+	"S_L.h"
+	<GL/glut.h>
+
+1421123146 source:y:\documents\work\cpp\project\dipole\demo\main_display.cpp
+	"Main_display.h"
+	"const.h"
+	"func.h"
+	"S_L.h"
+	<cmath>
+	<GL/glut.h>
+
+1421639974 source:y:\documents\work\cpp\project\dipole\demo\monte_carlo.cpp
+	"monte_carlo.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
+1420962691 source:y:\documents\work\cpp\project\dipole\demo\particle.cpp
+	"particle.h"
+
+1420788279 source:y:\documents\work\cpp\project\dipole\demo\s_l.cpp
+	"S_L.h"
+	"const.h"
+	"particle.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1421639641 source:y:\documents\work\cpp\project\dipole\demo\sys.cpp
+	"sys.h"
+	"const.h"
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<algorithm>
+
+1420558862 source:y:\documents\work\cpp\project\dipole\demo\triple.cpp
+	"Triple.h"
+	"const.h"
+	<cmath>
+
+1426741065 source:y:\documents\work\cpp\project\dipole\demo\velocity_verlet.cpp
+	"velocity_verlet.h"
+	"const.h"
+	<cmath>
+	<cstdlib>
+
